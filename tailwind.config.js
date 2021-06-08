@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       colors: {
         "hijau-button": "#00731C",
+        "hijau-header": "#45A298",
       },
       fontFamily: {
         poppins: ["Poppins"],
